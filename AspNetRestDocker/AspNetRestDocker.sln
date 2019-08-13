@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetRestDocker", "AspNetRestDocker\AspNetRestDocker.csproj", "{B2D1A2FC-7A7F-4C2B-9E43-AF86C917D084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D1A2FC-7A7F-4C2B-9E43-AF86C917D084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D1A2FC-7A7F-4C2B-9E43-AF86C917D084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D1A2FC-7A7F-4C2B-9E43-AF86C917D084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D1A2FC-7A7F-4C2B-9E43-AF86C917D084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE9A34AD-5A6A-4B29-9D5F-C09CF64D433B}
+	EndGlobalSection
+EndGlobal
